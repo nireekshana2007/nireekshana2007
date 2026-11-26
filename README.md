@@ -1,5 +1,6 @@
 <!-- HEADER -->
 
+
 <div align="center">
 
 <img src=""https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Nireekshana%20Gajjeli&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineering%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=15&descAlignY=58&animation=fadeIn" (https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=200&section=header&text=Nireekshana%20Gajjeli&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineering%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=15&descAlignY=58&animation=fadeIn)" width="100%" />
